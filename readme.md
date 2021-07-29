@@ -16,6 +16,7 @@ This is a curated list of resources for those who want to get started with ethic
 ### How Internet Works
 * https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
 * https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work
+* https://github.com/alex/what-happens-when
 
 ### Overview of HTTP
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
